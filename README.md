@@ -1,4 +1,4 @@
-# skillable-projects
+# skillable- PowerBI
 # 🎓 PL-300 Power BI Data Analyst Labs – Skillable Completion
 
 This repository documents my completion of selected labs from the **PL-300T00-A Design and Manage Analytics Solutions Using Power BI** course via Skillable. Each lab reflects my hands-on experience with Power BI, from data preparation to report design and dashboard creation.
